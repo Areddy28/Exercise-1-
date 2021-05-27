@@ -1,0 +1,28 @@
+
+body {
+  background-color: rgb(216, 118, 118);
+  text-align: center;
+  font-family: serif;
+}
+  
+  .container {
+  width: 400px; 
+  display: flex; 
+  float: bottom; 
+  border: 1px solid gray;
+  background-color: rgb(207, 202, 202); 
+  margin: auto; 
+  
+  }
+
+  #login {
+    position: relative;
+    margin-top: 80px;
+  }
+
+  p { 
+   margin-right: -150px;
+   width: 61%;
+  }
+
+ 
